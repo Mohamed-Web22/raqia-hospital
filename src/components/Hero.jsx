@@ -45,7 +45,7 @@ export default function Hero() {
         >
           <div className="w-full h-64 md:h-80 rounded-xl overflow-hidden shadow-lg border-4 border-white">
             <img
-              src="/images/hospital1.jpg"
+              src="/images/hospital.jpg"
               alt="مستشفى رقية العوض"
               className="w-full h-full object-cover"
             />

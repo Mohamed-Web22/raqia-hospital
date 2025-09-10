@@ -26,11 +26,12 @@ export default function Footer(){
         </div>
         <div>
           <h5 className="font-bold">تواصل معنا</h5>
-          <p className="text-sm mt-2">العنوان: شارع الصحة، المدينة</p>
-          <p className="text-sm mt-1">الهاتف: 123456789</p>
+          <p className="text-sm mt-2">العنوان: خليوة ظلط , جنوب اخر محطة</p>
+          <p className="text-sm mt-1">الهاتف: 997922457</p>
         </div>
       </div>
       <div className="text-center py-4 bg-[#08324a]">© 2025 مستشفى رقية العوض – جميع الحقوق محفوظة</div>
     </footer>
   )
 }
+
